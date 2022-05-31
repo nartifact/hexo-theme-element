@@ -7,8 +7,8 @@ author_avatar: /img/avatar.png
 
 # Search
 search: 
-  enable: false
-  service: google # google/algolia/azure
+  enable: true
+  service: algolia # google/algolia/azure
   # google 
   google_api_key: 
   google_engine_id: 

@@ -2,7 +2,7 @@
 
 #footer {
   position: relative;
-  padding: 20px 20px 40px 20px;
+  padding: 40px 20px 40px 20px;
   font-size: 14px;
   overflow: hidden;
   text-align: center;
@@ -29,6 +29,9 @@
       color: darken($material-orange, 0%);
     }
   }
+  .codename {
+    color: #cc6800;
+  }
 }
 
 /* Search */
@@ -37,7 +40,7 @@
   position: relative;
   width: 100%;
   max-width: $article-width;
-  margin: 0 auto 20px auto;
+  margin: 0 auto 60px auto;
   z-index: 2;
 
   #searchform {

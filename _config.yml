@@ -10,8 +10,8 @@ search:
   enable: true
   service: google # google/algolia/azure
   # google 
-  google_api_key: 
-  google_engine_id: 
+  google_api_key: googleApiKey
+  google_engine_id: googleEngineId
   # algolia
   algolia_app_id: 
   algolia_api_key: 

@@ -124,8 +124,13 @@
     text-align: left;
   }
   .about-me {
+    background-color: rgba(0,0,0,.1);
     padding: 12px 5px 15px 5px;
     transition: background 0.24s, border-color 0.24s;
+
+    &:hover {
+      background-color: rgba(0,0,0,.2);
+    }
 
     .avatar {
       display: block;

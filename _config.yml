@@ -1,5 +1,5 @@
 # Meta
-description: Private theme for artifact.me
+description: Private theme for nartifact
 keywords: hexo,theme,artifact,otakism
 
 # Author
@@ -47,8 +47,8 @@ valine:
 social:
 - name: feed
 	url: /atom.xml
-- name: email
-  url: 
+- name: mail
+  url: mailto:remarkable.yh@outlook.com
 - name: github
   url: https://github.com/nartifact
 - name: twitter

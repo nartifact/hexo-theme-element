@@ -22,7 +22,7 @@ search:
   azure_query_key: 
 
 # Miscellaneous
-google_analytics: 
+google_analytics: trackingID
 favicon: /favicon.png
 
 # Less

@@ -23,6 +23,8 @@ search:
 
 # Miscellaneous
 google_analytics: trackingID
+baidu_sitemap: baiduSitemapID
+baidu_analytics: baiduTrackingID
 favicon: /favicon.png
 
 # Less

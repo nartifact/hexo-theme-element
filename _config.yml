@@ -48,7 +48,7 @@ valine:
 # use url, not username
 social:
 - name: feed
-	url: /atom.xml
+  url: /atom.xml
 - name: mail
   url: mailto:remarkable.yh@outlook.com
 - name: github

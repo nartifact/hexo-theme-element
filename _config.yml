@@ -8,14 +8,14 @@ author_avatar: /img/avatar.png
 # Search
 search: 
   enable: true
-  service: google # google/algolia/azure
+  service: algolia # google/algolia/azure
   # google 
   google_api_key: googleApiKey
   google_engine_id: googleEngineId
   # algolia
-  algolia_app_id: 
-  algolia_api_key: 
-  algolia_index_name: 
+  algolia_app_id: 6V5SMRF05M
+  algolia_api_key: 2b2a71475f57312c7a1281ca8e83c117
+  algolia_index_name: nartifact
   # azure
   azure_service_name: 
   azure_index_name: 

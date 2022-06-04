@@ -8,7 +8,7 @@ author_avatar: /img/avatar.png
 # Search
 search: 
   enable: true
-  service: algolia # google/algolia/azure
+  service: azure # google/algolia/azure
   # google 
   google_api_key: googleApiKey
   google_engine_id: googleEngineId
@@ -17,9 +17,9 @@ search:
   algolia_api_key: 2b2a71475f57312c7a1281ca8e83c117
   algolia_index_name: nartifact
   # azure
-  azure_service_name: 
-  azure_index_name: 
-  azure_query_key: 
+  azure_service_name: nartifact-search
+  azure_index_name: nartifact
+  azure_query_key: dcx4fFLUqhi9Z2YkUvbI90QCFka1WYJP3Q6PAzzKEhAzSeAqOZIo
 
 # Miscellaneous
 google_analytics: trackingID

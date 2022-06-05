@@ -217,14 +217,14 @@
 
     @media (prefers-color-scheme: dark) {
       background-color: $dark-mode-post-background;
-      color: $white;
+      color: #9aa3ac;
     }
     &:hover {
       background-color: $black;
-      color: $white;
+      color: #e0e3e6;
 
       @media (prefers-color-scheme: dark) {
-        background-color: lighten($dark-mode-post-background, 5%);
+        background-color: #0e0f11;
       }
     }
     &::before {

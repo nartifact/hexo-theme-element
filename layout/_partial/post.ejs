@@ -1,6 +1,6 @@
 <li class="post-item grid-item">
 	<a class="post-link" href="<%- url_for(post.path) %>">
-		<img class="post-indexpic" src="<%- post.photos[0] %>" onerror="this.style.display='none'">
+		<img class="post-indexpic" src="/<%- post.photos[0] %>" onerror="this.style.display='none'">
 		<h3 class="post-title"><%= post.title %></h3>
 	  <div class="post-meta">
 	    <time datetime="<%= date_xml(post.date) %>" itemprop="datePublished">
